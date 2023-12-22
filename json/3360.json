@@ -1,0 +1,38 @@
+{
+    "name": "Skult #3361",
+    "description": "6666 Skult Collectibles to inspire and support you to accomplish your dreams. Created by Skult Studio.",
+    "image": "https://raw.githubusercontent.com/skultsolana/new_mints/main/images/IMG_3360.png?token=GHSAT0AAAAAACL5U5KC4WJAZ5FASPIYMJQWZMFOXWQ",
+    "imageHash": "2f7d8cd03bb01f8b2163a1d5e89b9eca0d49dd9341b0154e4c0c8467ef01307a",
+    "edition": 3360,
+    "date": 1702763571049,
+    "attributes": [
+    {
+    "trait_type": "Body",
+    "value": "Burger Flipper"
+    },
+    {
+    "trait_type": "Underwear",
+    "value": "1/1"
+    },
+    {
+    "trait_type": "Clothes",
+    "value": "1/1"
+    },
+    {
+    "trait_type": "Mouth",
+    "value": "1/1"
+    },
+    {
+    "trait_type": "Eyes",
+    "value": "1/1"
+    },
+    {
+    "trait_type": "Female Hair",
+    "value": "1/1"
+    },
+    {
+    "trait_type": "Accessoires",
+    "value": "1/1"
+    }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"}
